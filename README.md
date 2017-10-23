@@ -1,8 +1,8 @@
 # check-localhost
 
-> Check if ip address or dns name belong to your local machine
+> Check if <b>IP Address</b> or <b>DNS Name</b> belong to your local machine
 
-A tiny script that return the promise, if it belongs to your local machine.
+A tiny script that returns a promise, if <b>IP Address</b> or <b>DNS Name</b> belongs to your local machine.
 
 # Installation
 
