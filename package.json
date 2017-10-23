@@ -1,0 +1,26 @@
+{
+  "name": "check-localhost",
+  "version": "0.0.1",
+  "description": "Check if dns name or ip address belongs to local machine",
+  "main": "index.js",
+  "email": "bajoriasanket@gmail.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketbajoria/check-localhost.git"
+  },
+  "keywords": [
+    "localhost",
+    "is-localhost",
+    "check-localhost",
+    "is-loopback"
+  ],
+  "author": "Sanket Bajoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanketbajoria/check-localhost/issues"
+  },
+  "homepage": "https://github.com/sanketbajoria/check-localhost#readme"
+}
