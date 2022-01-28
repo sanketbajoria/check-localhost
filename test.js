@@ -20,6 +20,10 @@ checkLocalHost("localhost2.relayhub.pitneycloud.com").then(function(islocal){
     console.log("Is localhost2.relayhub.pitneycloud.com localhost -- " + islocal);
 })
 
+checkLocalHost("google.com").then(function(islocal){
+    console.log("Is google.com localhost -- " + islocal);
+})
+
 checkLocalHost("localhost2").then(function(islocal){
     console.log("Is localhost2 localhost -- " + islocal);
 })
